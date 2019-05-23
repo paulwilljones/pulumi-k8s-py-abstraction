@@ -1,0 +1,3 @@
+name: pulumi-k8s-py-guestbook
+runtime: python
+description: Pulumi Kubernetes Python Guestbook Deployment
